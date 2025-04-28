@@ -17,8 +17,8 @@
 ## 📂 My Projects
 
 | Project                         | Description                          |
-|---------------------------------|--------------------------------------|
-| **Employee Management System**  | Basic CRUD backend using Spring Boot |
+|----------------------------------|--------------------------------------|
+| **[Employee Management System](https://github.com/lakhanbarfa17/employee-management-system)**  | Basic CRUD backend using Spring Boot |
 | More coming soon...             | Stay tuned! 👨‍💻                     |
 
 ---
