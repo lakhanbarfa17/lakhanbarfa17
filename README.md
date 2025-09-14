@@ -27,7 +27,7 @@
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakhanbarfa)
-- 📩 lakhanbarfa17@gmail.com
-- 🧑‍💻 GitHub: [lakhanbarfa17](https://github.com/lakhanbarfa17)
+- 📩 [Email](lakhanbarfa17@gmail.com)
+- 🧑‍💻 [GitHub](https://github.com/lakhanbarfa17)
 
 ---
