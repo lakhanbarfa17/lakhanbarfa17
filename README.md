@@ -29,6 +29,8 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/lakhanbarfa)
 - 📩 [Email](lakhanbarfa17@gmail.com)
 - [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/lakhanbarfa17)
+- <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/68beea54-0af2-42e5-8d7a-e5f039144899" />
+
 
 
 ---
