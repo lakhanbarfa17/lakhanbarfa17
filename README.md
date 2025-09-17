@@ -18,7 +18,7 @@
 
 | Project                         | Description                          |
 |----------------------------------|--------------------------------------|
-| **[Employee Management System](https://github.com/lakhanbarfa17/employee-management-system)**  | Basic CRUD backend using Spring Boot |
+| **[employee-management-system](https://github.com/lakhanbarfa17/employee-management-system)**  | Basic CRUD backend using Spring Boot |
 | **[ecommerce-microservices](https://github.com/lakhanbarfa17/ecommerce-microservices)**  | ecommerce-microservices using Spring Boot |
 | More coming soon...             | Stay tuned! 👨‍💻                     |
 
